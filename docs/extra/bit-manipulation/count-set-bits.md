@@ -1,5 +1,5 @@
 ---
-id: count-set-bits
+id: count-set-bits-guide
 title: Counting Set Bits
 sidebar_label: Count Set Bits
 sidebar_position: 5
